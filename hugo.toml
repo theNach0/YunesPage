@@ -1,0 +1,7 @@
+baseURL = "https://theNach0.github.io"   # Change this later
+title = "Spencer Yunes"
+languageCode = "en-us"
+theme = ""
+
+[params]
+  description = "Electrical Engineer | Northrop Grumman AESA Radar Specialist"
