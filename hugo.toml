@@ -1,7 +1,14 @@
-baseURL = "https://theNach0.github.io"   # Change this later
+baseURL = "https://yuneshq.com"   # Change this later
 title = "Spencer Yunes"
-languageCode = "en-us"
+locale = "en-us"
 theme = ""
+
+# THIS STOPS HUGO FROM CREATING public/ FOLDER
+publishDir = "."
+
+# Recommended settings
+disableKinds = ["RSS", "taxonomy", "term"]
+enableRobotsTXT = true
 
 [params]
   description = "Electrical Engineer | Northrop Grumman AESA Radar Specialist"
